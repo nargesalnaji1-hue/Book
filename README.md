@@ -196,7 +196,6 @@ Alla databasoperationer ligger i `try/catch`. Express sista felhanterare loggar 
 
 ## Kodgranskning av klasskamrat
 
-Uppgiften kräver att en klasskamrat testar API:et och gör en kodgranskning. Fyll i detta efter genomförd granskning:
 
 ```text
 Klasskamrat: [fyll i namn]
